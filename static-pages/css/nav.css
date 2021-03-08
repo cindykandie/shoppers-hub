@@ -1,5 +1,6 @@
 body {
   background-color: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 nav {
@@ -19,6 +20,7 @@ nav {
           align-items: center;
   background-color: rgba(66, 159, 221, 0.45);
   right: 20px;
+  top: 20px;
 }
 
 nav li {

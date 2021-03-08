@@ -19,6 +19,7 @@ nav {
           align-items: center;
   background-color: rgba(66, 159, 221, 0.45);
   right: 20px;
+  top: 20px;
 }
 
 nav li {
