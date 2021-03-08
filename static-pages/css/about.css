@@ -53,6 +53,14 @@ body .about-imgs {
         -ms-flex-direction: column-reverse;
             flex-direction: column-reverse;
     padding-top: 200px;
+    width: 100vh;
+    height: 100vh;
+  }
+  body div {
+    width: 100%;
+  }
+  body .words {
+    padding: 10px 0 10px;
   }
 }
 /*# sourceMappingURL=about.css.map */
