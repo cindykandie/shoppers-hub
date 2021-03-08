@@ -57,7 +57,7 @@ body .about-imgs {
     height: 100vh;
   }
   body div {
-    width: 100%;
+    max-width: 100%;
   }
   body .words {
     padding: 10px 0 10px;
